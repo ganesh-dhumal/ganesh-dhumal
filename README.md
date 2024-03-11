@@ -39,6 +39,9 @@
 ### Databases
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/VectorDB-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Pinecone-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+
 
 ### Tools & Frameworks
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -50,8 +53,6 @@
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 
-<br>
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanverma07&show_icons=true&theme=radical)
 
 ### 🤩 Support
 
