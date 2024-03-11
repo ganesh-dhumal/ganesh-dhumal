@@ -21,26 +21,14 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Machine Learning & AI
-![](https://img.shields.io/badge/Generative_AI-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Natural_Language_Processing_(NLP)-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/MLOps-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/AWS_%2F_Microsoft_Azure-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Large_Language_Models_(LLM)-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Computer_Vision-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Machine_Learning-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Deep_Learning-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/MLflow-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-
-
-![](https://img.shields.io/badge/Generative_AI-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Natural_Language_Processing_(NLP)-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/MLOps-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/AWS_%2F_Microsoft_Azure-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Large_Language_Models_(LLM)-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Computer_Vision-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Machine_Learning-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/Deep_Learning-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
-![](https://img.shields.io/badge/MLflow-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 
 
 ### Cloud Platforms
