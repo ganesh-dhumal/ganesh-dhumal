@@ -15,16 +15,46 @@
 - 🌟 Excellent communication and team-building skills.
 - 💬 **Effective remote communicator** with a track record of **successful remote work collaboration**.
 
-### Skills
+## 👨🏻‍💻 [Technology]
 
-- Generative AI
-- Natural Language Processing (NLP)
-- MLOps
-- AWS / Microsoft Azure
-- Large Language Models (LLM)
-- Computer Vision
-- Machine Learning
-- Deep Learning
-- MLflow
+### Programming Languages
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Machine Learning & AI
+![](https://img.shields.io/badge/Generative_AI-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Natural_Language_Processing_(NLP)-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/MLOps-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/AWS_%2F_Microsoft_Azure-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Large_Language_Models_(LLM)-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Computer_Vision-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Machine_Learning-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Deep_Learning-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/MLflow-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+
+### Cloud Platforms
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white)
+
+### Databases
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Frameworks
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+
+<br>
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanverma07&show_icons=true&theme=radical)
+
+### 🤩 Support
+
+💙 If you find this informative, give it a ⭐ and share it with friends!
 
 Let's connect and explore exciting data science projects together! 🚀👨‍💻
