@@ -31,6 +31,18 @@
 ![](https://img.shields.io/badge/Deep_Learning-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
 ![](https://img.shields.io/badge/MLflow-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
 
+
+![](https://img.shields.io/badge/Generative_AI-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Natural_Language_Processing_(NLP)-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/MLOps-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/AWS_%2F_Microsoft_Azure-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Large_Language_Models_(LLM)-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Computer_Vision-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Machine_Learning-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/Deep_Learning-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+![](https://img.shields.io/badge/MLflow-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)
+
+
 ### Cloud Platforms
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
