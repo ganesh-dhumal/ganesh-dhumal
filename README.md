@@ -13,7 +13,7 @@
 - 🌐 Proficient in **Python OOP**, adhering to PEP8 and Pylint standards.
 - 🌀 Skilled in **Agile methodologies** with Jira for seamless project collaboration.
 - 🌟 Excellent communication and team-building skills.
-- 💬 Effective remote communicator with a track record of successful remote work collaboration.
+- 💬 **Effective remote communicator** with a track record of **successful remote work collaboration**.
 
 ### Experience
 
